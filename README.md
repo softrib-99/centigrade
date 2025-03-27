@@ -1,1 +1,1 @@
-# centigrade
+# Centigrade
